@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 55px;
+  align-items: center;
+  background: url("https://img3.akspic.ru/crops/5/8/0/4/6/164085/164085-atmosfera-oblako-zdanie-poslesvechenie-sumrak-2560x1440.jpg") fixed;
+}
+
